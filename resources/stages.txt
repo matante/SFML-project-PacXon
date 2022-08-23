@@ -1,0 +1,89 @@
+Level 1
+RegularEnemy
+2
+600 200
+200 600
+SpeedBoost
+1
+100 100
+10
+LifeReward
+1
+600 600
+20
+SlowEnemies
+1
+300 600
+30
+0.0
+SlowEnemies
+1
+600 300
+40
+0.5
+END
+Level 2
+RegularEnemy
+2
+100 700
+700 300
+SmartEnemy
+1
+600 200
+SpeedBoost
+1
+100 100
+10
+EatableEnemies
+1
+200 600
+20
+LifeReward
+1
+500 500
+30
+SlowEnemies
+1
+250 700
+40
+0.0
+SlowEnemies
+1
+700 250
+50
+0.5
+END
+Level 3
+RegularEnemy
+2
+123 321
+456 654
+SmartEnemy
+1
+147 741
+HungryEnemy 
+1
+300 600
+SpeedBoost 
+1
+333 333
+50
+LifeReward
+1
+555 555
+30
+EatableEnemies
+1
+200 200
+40
+SlowEnemies
+1
+600 100
+60
+0.0
+SlowEnemies
+1
+100 600
+20
+0.5
+END
