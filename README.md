@@ -1,5 +1,4 @@
 # SFML-project-Xonix
-Our implemintation of Xonix, in Poke'mon version
 
 We created the Xonix Pacman game, in Poke'mon version (original game: https://www.pacxon.net/)
 We used the OOP principles of inheritance, polymorphism, as well as our knowledge of data structures, the STD, algorithms, exceptions and design templates.
