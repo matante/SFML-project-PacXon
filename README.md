@@ -11,6 +11,7 @@ The goal is to occupy at least 80% of the territory.
 If an enemy hits the character, the player loses a life. 
 If the enemy "infects" a green rail and it turns red, and the character touches the red part, the player loses a life.
 The character can pick "gifts" which give various bonuses - freezing the enemies, giving the character 1 more HP, making the enemies "ediables" (so they disappear), and boosting up the character's speed for a limited time.
+There are multiple types of enemies.
 
 
 We used the dynamic programming Flood Fill algorithm to color the occupied territory
